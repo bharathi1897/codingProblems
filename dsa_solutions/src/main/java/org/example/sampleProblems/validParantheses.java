@@ -1,4 +1,4 @@
-package org.example.problems;
+package org.example.sampleProblems;
 import java.util.Stack;
 import java.util.function.Predicate;
 

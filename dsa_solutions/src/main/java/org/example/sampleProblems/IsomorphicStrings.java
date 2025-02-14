@@ -1,4 +1,4 @@
-package org.example.problems;
+package org.example.sampleProblems;
 import java.util.HashMap;
 
 public class IsomorphicStrings {

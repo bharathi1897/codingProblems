@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.problems.*;
+import org.example.sampleProblems.*;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

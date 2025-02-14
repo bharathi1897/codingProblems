@@ -1,4 +1,4 @@
-package org.example.problems;
+package org.example.sampleProblems;
 
 public class MinSizeSubarrSum {
     //Given an array of positive integers nums and a positive integer target, return the minimal length of a subarray
