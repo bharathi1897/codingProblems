@@ -1,6 +1,7 @@
 package org.example;
 
 import org.example.sampleProblems.*;
+import org.example.twoPointers.*;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -23,5 +24,12 @@ public class Main {
         MinSizeSubarrSum ms = new MinSizeSubarrSum();
         ms.display();
 
+        // Water container's maxarea
+        ContainerArea ca = new ContainerArea();
+        ca.display();
+
+        //find if s is subsequence of t
+        isSubsequence issub = new isSubsequence();
+        issub.display();
     }
 }
